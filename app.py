@@ -1,3 +1,5 @@
-print ("I am doing Python devevelopment inside a containter environment")
-print ("SEC C3T MCD!")
+print("")
+print ("It is easier to spin up a container for your developent environment")
+print("-no need for installation/setup local development")
+print("- take advantage of better infrastructure like SE2, Cloud or better local server")
 print ("")
